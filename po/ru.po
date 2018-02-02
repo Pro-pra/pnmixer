@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: pnmixer 0.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-16 10:05+0700\n"
-"PO-Revision-Date: 2016-06-23 19:30+0300\n"
-"Last-Translator: Pavel Roschin <rpg89(at)post(dot)ru>\n"
+"PO-Revision-Date: 2018-02-02 09:52+0000\n"
+"Last-Translator: Aleksandr Proklov <ssaa(at)rambler(dot)ru>\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -247,9 +247,8 @@ msgstr "Включить уведомления"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:2
 #: ../data/ui/prefs-dialog-gtk2.glade.h:3
-#, fuzzy
 msgid "Timeout (ms):"
-msgstr "задержка (мс)"
+msgstr "Задержка (мс)"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:3
 #: ../data/ui/prefs-dialog-gtk2.glade.h:9
@@ -314,12 +313,12 @@ msgstr "Канал:"
 #: ../data/ui/prefs-dialog-gtk3.glade.h:16
 #: ../data/ui/prefs-dialog-gtk2.glade.h:14
 msgid "Change volume on a logarithmic scale, closer to human perception."
-msgstr ""
+msgstr "Логарифмическая шкала громкости."
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:17
 #: ../data/ui/prefs-dialog-gtk2.glade.h:13
 msgid "Normalize Volume:"
-msgstr "Нормализовать громкость:"
+msgstr "Выровнять громкость:"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:18
 #: ../data/ui/prefs-dialog-gtk2.glade.h:15
@@ -334,17 +333,17 @@ msgstr "Устройство"
 #: ../data/ui/prefs-dialog-gtk3.glade.h:20
 #: ../data/ui/prefs-dialog-gtk2.glade.h:17
 msgid "Slider Orientation:"
-msgstr ""
+msgstr "Ориентация регуляторов"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:21
 #: ../data/ui/prefs-dialog-gtk2.glade.h:18
 msgid "Vertical"
-msgstr ""
+msgstr "Вертикально"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:22
 #: ../data/ui/prefs-dialog-gtk2.glade.h:19
 msgid "Horizontal"
-msgstr ""
+msgstr "Горизонтально"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:23
 #: ../data/ui/prefs-dialog-gtk2.glade.h:20
@@ -353,9 +352,8 @@ msgstr "Отображать уровень громкости текстом"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:24
 #: ../data/ui/prefs-dialog-gtk2.glade.h:21
-#, fuzzy
 msgid "Text Volume Position:"
-msgstr "Расположение текста громкости:"
+msgstr "Расположение текста:"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:25
 #: ../data/ui/prefs-dialog-gtk2.glade.h:22
@@ -379,21 +377,18 @@ msgstr "Справа"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:29
 #: ../data/ui/prefs-dialog-gtk2.glade.h:26
-#, fuzzy
 msgid "<b>Volume Popup</b>"
-msgstr "<b>Измеритель громкости</b>"
+msgstr "<b>Громкость</b>"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:30
 #: ../data/ui/prefs-dialog-gtk2.glade.h:27
-#, fuzzy
 msgid "Draw Volume Meter on Tray Icon"
-msgstr "Цвет измерителя громкости:"
+msgstr "Показывать уровень звука на значке в трее"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:32
 #: ../data/ui/prefs-dialog-gtk2.glade.h:29
-#, fuzzy, no-c-format
 msgid "Volume Meter Offset (%):"
-msgstr "Смещение измерителя громкости:"
+msgstr "Шаг изменения громкости (%):"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:33
 #: ../data/ui/prefs-dialog-gtk2.glade.h:30
@@ -408,7 +403,7 @@ msgstr "<b>Измеритель громкости</b>"
 #: ../data/ui/prefs-dialog-gtk3.glade.h:35
 #: ../data/ui/prefs-dialog-gtk2.glade.h:32
 msgid "Use System Theme"
-msgstr ""
+msgstr "Использовать системную тему"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:36
 #: ../data/ui/prefs-dialog-gtk2.glade.h:33
@@ -427,9 +422,8 @@ msgstr "<b>Команда управления громкостью</b>"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:39
 #: ../data/ui/prefs-dialog-gtk2.glade.h:36
-#, fuzzy
 msgid "Scroll Step:"
-msgstr "Шаг прокрутки колёсиком:"
+msgstr "Шаг прокрутки мышью:"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:40
 #: ../data/ui/prefs-dialog-gtk2.glade.h:37
@@ -446,7 +440,7 @@ msgstr "<b>Измеритель громкости</b>"
 #: ../data/ui/prefs-dialog-gtk3.glade.h:42
 #: ../data/ui/prefs-dialog-gtk2.glade.h:39
 msgid "Middle Click Action:"
-msgstr "Действие по клику колёсиком:"
+msgstr "Действие по нажатию средней кнопки мыши:"
 
 #: ../data/ui/prefs-dialog-gtk3.glade.h:43
 #: ../data/ui/prefs-dialog-gtk2.glade.h:40
